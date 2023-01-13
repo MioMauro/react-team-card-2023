@@ -1,5 +1,11 @@
 # Getting Started with Create React App
+<h3>Here</h3>
+<h4>https://react-team-card-2023.vercel.app/</h4>
+<br>
+<h4>React course<h4>
+<h5>https://www.youtube.com/watch?v=u6gSSpfsoOQ</h5>
 1:23:48
+<br>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
